@@ -1,0 +1,96 @@
+,Disaster Type,Disaster Subtype,Country,Location,Start Year,Start Month,Start Day,End Year,End Month,End Day,No Deaths,No Missing,Total Deaths,No Injured,No Affected,No Homeless,Total Affected
+0,Flood,,Bangladesh,,1960,,,1960,,,10000.0,,10000.0,,,,
+1,Flood,,Bangladesh,,1963,7.0,,1963,7.0,,30.0,,30.0,,,,
+2,Flood,,Bangladesh,"Rangpur, Comilla",1964,7.0,,1964,7.0,,,,,,1000000.0,,1000000.0
+3,Flood,,Bangladesh,Sylhet,1966,6.0,,1966,6.0,,39.0,,39.0,,500000.0,,500000.0
+4,Flood,,Bangladesh,"Nationwide, 5 Northern districts",1968,7.0,,1968,7.0,,221.0,,221.0,100000.0,14910892.0,878724.0,15889616.0
+5,Flood,,Bangladesh,,1970,7.0,,1970,7.0,,,,,,10000000.0,,10000000.0
+6,Flood,,Bangladesh,Sylhet,1972,6.0,25.0,1972,6.0,25.0,50.0,,50.0,,,,
+7,Flood,,Bangladesh,,1973,3.0,,1973,3.0,,427.0,,427.0,,,,
+8,Flood,,Bangladesh,,1973,8.0,,1973,8.0,,,,,,,,
+9,Flood,,Bangladesh,,1974,7.0,,1974,7.0,,28700.0,,28700.0,,36000000.0,2000000.0,38000000.0
+10,Flood,,Bangladesh,Easr,1976,6.0,15.0,1976,6.0,15.0,168.0,,168.0,,4000000.0,,4000000.0
+11,Flood,,Bangladesh,Brahmaputra Valley,1977,9.0,,1977,9.0,,5.0,,5.0,,200000.0,,200000.0
+12,Flood,,Bangladesh,,1977,10.0,13.0,1977,10.0,13.0,8.0,,8.0,,13650.0,,13650.0
+13,Flood,Riverine flood,Bangladesh,Western,1978,8.0,,1978,8.0,,17.0,,17.0,,400000.0,,400000.0
+14,Flood,,Bangladesh,North Western,1980,8.0,,1980,8.0,,655.0,,655.0,,10000000.0,,10000000.0
+15,Flood,,Bangladesh,"Rajshahi, Kushtia",1982,9.0,7.0,1982,9.0,7.0,,,,,283000.0,25000.0,308000.0
+16,Flood,,Bangladesh,"Central, Eastern",1983,4.0,,1983,4.0,,78.0,,78.0,,60000.0,,60000.0
+17,Flood,,Bangladesh,,1983,7.0,,1983,7.0,,12.0,,12.0,,4000000.0,100000.0,4100000.0
+18,Flood,,Bangladesh,,1983,9.0,,1983,9.0,,114.0,,114.0,,3000000.0,,3000000.0
+19,Flood,,Bangladesh,,1983,8.0,,1983,8.0,,41.0,,41.0,,,,
+20,Flood,,Bangladesh,Eastern,1984,5.0,,1984,5.0,,1200.0,,1200.0,,30000000.0,,30000000.0
+21,Flood,Riverine flood,Bangladesh,"Maulvibazar, Sylhet district",1985,6.0,,1985,6.0,,7.0,,7.0,,100000.0,,100000.0
+22,Flood,,Bangladesh,"Rangpur, Kurigram a Nil district",1985,7.0,5.0,1985,7.0,5.0,27.0,,27.0,,400000.0,,400000.0
+23,Flood,Riverine flood,Bangladesh,Rajshahi district,1986,8.0,2.0,1986,8.0,2.0,4.0,,4.0,,100000.0,,100000.0
+24,Flood,,Bangladesh,Chapai,1986,8.0,7.0,1986,8.0,7.0,26.0,,26.0,,,300000.0,300000.0
+25,Flood,Riverine flood,Bangladesh,"Rangpur, Netrokona, Gaibandha, Noagaon, Kurigram, Jamlpur, Cox's Bazar, Chittagong, Noahkali districts",1987,7.0,22.0,1987,7.0,22.0,2055.0,,2055.0,,29700000.0,,29700000.0
+26,Flood,,Bangladesh,,1987,8.0,,1987,8.0,,225.0,,225.0,,,,
+27,Flood,Riverine flood,Bangladesh,"Sunamganj, Netrokona, Satkhira, Bogra, Moulavibazar, Habaganj, Rangpur",1988,7.0,,1988,7.0,,61.0,,61.0,,,,
+28,Flood,,Bangladesh,,1988,6.0,,1988,9.0,,2379.0,,2379.0,,45000000.0,,45000000.0
+29,Flood,Riverine flood,Bangladesh,"Sylhet,Bandarban, Cox's Bazar, Chittagong district,",1989,8.0,14.0,1989,8.0,14.0,180.0,,180.0,,200000.0,,200000.0
+30,Flood,Riverine flood,Bangladesh,"Habiganj district, Noakhali District (North Eastern)",1990,3.0,24.0,1990,3.0,30.0,166.0,,166.0,1600.0,10000.0,,11600.0
+31,Flood,Riverine flood,Bangladesh,"Rajshabi division, Sirajganj, Jamalpur, Bogra, Pabna",1990,7.0,14.0,1990,9.0,6.0,65.0,,65.0,,2000000.0,,2000000.0
+32,Flood,Riverine flood,Bangladesh,Rajskabi division,1991,7.0,,1991,7.0,,,,,,1590000.0,,1590000.0
+33,Flood,Riverine flood,Bangladesh,Rangpur,1991,9.0,2.0,1991,9.0,10.0,65.0,,65.0,,,200000.0,200000.0
+34,Flood,Riverine flood,Bangladesh,Sylhet district,1991,5.0,14.0,1991,5.0,26.0,200.0,,200.0,,1200000.0,,1200000.0
+35,Flood,Riverine flood,Bangladesh,"Kishoreganj, Brahmambaria districts",1992,4.0,18.0,1992,4.0,18.0,15.0,,15.0,200.0,,,200.0
+36,Flood,Riverine flood,Bangladesh,"Maheskali, Chittagong, Cox's Bazaar districts",1992,6.0,22.0,1992,6.0,26.0,2.0,,2.0,,,45000.0,45000.0
+37,Flood,Riverine flood,Bangladesh,North-East,1992,7.0,11.0,1992,7.0,11.0,,,,,,30000.0,30000.0
+38,Flood,Riverine flood,Bangladesh,"Habiganj, Sylhet, Sunamganj, Zakiganj, Moulavibazar, Feni, Chittagong, Cox's Bazar districts",1993,6.0,4.0,1993,6.0,22.0,28.0,,28.0,,3207056.0,,3207056.0
+39,Flood,Riverine flood,Bangladesh,"Bogra, Sirajganj, Netrokona, Pabna, Sirajganj, Sylhet, Brahmanbaria, Hobiganj, Cox's Bazar, Feni, Comilla, Khagrachari, Bandarban, Rangamati, Maulvibazar, Habiganj and Sunamganj districts (Chittagong Region)",1993,7.0,1.0,1993,8.0,31.0,162.0,,162.0,,11469537.0,,11469537.0
+40,Flood,,Bangladesh,"Chittagong, Dhaka",1993,8.0,21.0,1993,8.0,21.0,4.0,,4.0,20.0,1000000.0,75000.0,1075020.0
+41,Flood,Flash flood,Bangladesh,North,1994,5.0,19.0,1994,5.0,19.0,12.0,,12.0,,100.0,,100.0
+42,Flood,Riverine flood,Bangladesh,Sylhet district,1994,6.0,1.0,1994,6.0,3.0,3.0,,3.0,,25000.0,,25000.0
+43,Flood,Riverine flood,Bangladesh,Barisal district and Southern Bangladesh,1994,4.0,19.0,1994,4.0,19.0,61.0,,61.0,,,,
+44,Flood,,Bangladesh,"Chapainawabganj, Rajshahi",1994,8.0,19.0,1994,8.0,19.0,40.0,,40.0,,300000.0,70000.0,370000.0
+45,Flood,,Bangladesh,"Sylhet, Moulvibazar, Sunamganj, Netrokona, Sirajganj, Gaibandha, Jamalpur, Pabna, Kurigram, Rangpur, Madaripur, Feni, Panchagarh, Lalmonirhat, Tangail, Gopalganj, Satkhira, Bogra",1995,6.0,16.0,1995,6.0,23.0,250.0,,250.0,,12656006.0,,12656006.0
+46,Flood,Riverine flood,Bangladesh,"Chittagong, Khulna, Dhaka, Barisal",1995,5.0,17.0,1995,5.0,24.0,41.0,,41.0,,351000.0,,351000.0
+47,Flood,Coastal flood,Bangladesh,"Chittagong, Bhola, Coxbazar, Bagerhat, Hatiya, Noakhali, Patuakhali",1995,5.0,15.0,1995,5.0,15.0,50.0,,50.0,,351325.0,110000.0,461325.0
+48,Flood,Riverine flood,Bangladesh,"Dinajpur, Panchagar, Rangpur, Nilpamari, Joipurhat, Gaibanda, Natore, Naogaon, Bogra districts",1995,9.0,29.0,1995,10.0,16.0,400.0,,400.0,,1000000.0,250000.0,1250000.0
+49,Flood,Riverine flood,Bangladesh,"Kurigram, Gaibandha, Bogra, Sirajganj, Tangail, Pabna, Manikanj, Munshiganj, Dhaka, Dhaka city, Narayangani, Shariatpur, Madaripur, Gopalganj, Rajbari, Faridpur, Lalmonirat, Nilhamari",1996,7.0,19.0,1996,8.0,2.0,33.0,,33.0,,5663319.0,,5663319.0
+50,Flood,Riverine flood,Bangladesh,"Rajshai, Padma",1996,8.0,26.0,1996,9.0,7.0,22.0,,22.0,,165000.0,,165000.0
+51,Flood,Flash flood,Bangladesh,"North, Central North",1997,7.0,13.0,1997,7.0,13.0,79.0,,79.0,30.0,800000.0,100000.0,900030.0
+52,Flood,Riverine flood,Bangladesh,"Mymensingh, Jamalpur, Sherpur, Hobiganj, Rangpur, Sirajangj, Manikganj, Pabna, Rajbari, Rajshahi, Kurigram, Faridpur, Nilphamari, Gaibandha, Lalmonirhat, Khagrachari, Chitagong, Feni, Comilla, Cox's Bazar, Tangail, Natore districts",1998,7.0,5.0,1998,9.0,22.0,1050.0,,1050.0,50.0,15000000.0,,15000050.0
+53,Flood,Riverine flood,Bangladesh,"Chittagong port city, Aziznagar, Chittagong Hill Tracts, Island of Maheshkhali (Cox's Bazar, Chittagong and Bandarban districts)",1999,8.0,11.0,1999,8.0,15.0,17.0,,17.0,50.0,50000.0,,50050.0
+54,Flood,,Bangladesh,"Bhola, Barisal, Patuakhil",1999,4.0,10.0,1999,4.0,11.0,66.0,,66.0,100.0,,,100.0
+55,Flood,Riverine flood,Bangladesh,"Comilla, Lalmonirhat, Habiganj Jamalpur, Munshiganj, Manikganj, Kustia, Rajshahi, Bogra, Kurigram, Gaibandha, Nilphamari, Lalmonirhat, Sunamganj and Chittagong",1999,7.0,11.0,1999,8.0,3.0,31.0,,31.0,20.0,421250.0,20000.0,441270.0
+56,Flood,,Bangladesh,,1999,6.0,30.0,1999,7.0,20.0,82.0,,82.0,,,,
+57,Flood,,Bangladesh,Jamuna,1999,7.0,28.0,1999,8.0,5.0,,,,,,4000.0,4000.0
+58,Flood,Flash flood,Bangladesh,"Bakalia, Kotwali, Chandgaon, Pahartali, Hathazari, Halishahar, Patiya, Satkania areas (Chittagong district, Chittagong province), Cox's Bazar district (Chittagong province)",2000,6.0,24.0,2000,6.0,24.0,11.0,,11.0,50.0,200000.0,,200050.0
+59,Flood,Coastal flood,Bangladesh,"Hutiya, Companiganj areas (Noakhali district, Chittagong province), Maheskhali area (Cox's Bazar district, Chittagong province), Sandwip area (Chittagong district, Chittagong province)",2000,8.0,30.0,2000,8.0,30.0,1.0,,1.0,10.0,,12000.0,12010.0
+60,Flood,Flash flood,Bangladesh,"Gangni, Meherpur Sadar areas (Meherpur district, Khulna province), Daulatpur, Kushtia Sadar, Bheramara areas (Kushtia district, Khulna province), Jibannagar, Alamdanga, Cuadanda Sadar, Damurhuda areas (Chuadanga district, Khulna province), Maheshpur, Kotchandpur areas (Jhenaidah district, Khulna province), Paba, Godagari, Tanor, Mohanpur areas (Rajshahi district, Rajshahi province)",2000,9.0,,2000,10.0,,31.0,,31.0,,2467138.0,,2467138.0
+61,Flood,Riverine flood,Bangladesh,"Nilphamari district (Rangpur province), Brahamanbaria district (Chittagong province), Sylhet province",2001,6.0,5.0,2001,6.0,5.0,9.0,,9.0,,500000.0,,500000.0
+62,Flood,,Bangladesh,"Sunamganj, Sylhet districts (Sylhet province), Nawabganj, Rajshahi districts (Rajshahi province), Kushtia district (Khulna province)",2001,8.0,31.0,2001,8.0,31.0,,,,,200000.0,,200000.0
+63,Flood,Flash flood,Bangladesh,"Mymensingh, Netrakona, Sherpur districts (Dhaka province), Sunamganj district (Sylhet province), Rangpur, Nilphamari, Kurigram, Gaibandha districts (Rangpur province), Noakhali, Lakshmipur, Cox's Bazar districts (Chittagong province), Jessore, Satkhira districts (Khulna province), Barguna, Bhola, Barisal, Patuakhali districts (Barisal province), Rajshahi province",2002,7.0,,2002,8.0,,10.0,,10.0,,1500000.0,,1500000.0
+64,Flood,Flash flood,Bangladesh,"Khagrachhari, Chittagong, Feni, Cox's Bazar, Lakshmipur, Comilla districts (Chittagong province), Bhola district (Barisal province), Netrakona, Jamalpur districts (Dhaka province), Sylhet province",2003,6.0,19.0,2003,7.0,3.0,65.0,,65.0,,500000.0,,500000.0
+65,Flood,Riverine flood,Bangladesh,"Maulvibazar, Habiganj, Sylhet districts (Sylhet province), Lalmonirhat, Kurigram, Rangpur, Nilphamari, Gaibandha districts (Rangpur province), Comilla, Feni districts (Chittagong province), Sirajganj, Bogra, Pabna, Rajshahi, Nawabganj districts (Rajshahi province), Jamalpur, Tangail, Manikganj, Munshiganj, Narsingdi, Narayanganj, Kishoreganj, Rajbari, Madaripur, Chandpur, Faridpur, Dhaka districts (Dhaka province)",2003,6.0,11.0,2003,10.0,10.0,187.0,,187.0,,50000.0,,50000.0
+66,Flood,Riverine flood,Bangladesh,"Brahamanbaria, Comilla, Chandpur districts (Chittagong province), Kurigram, Rangpur, Gaibandha districts (Rangpur province), Bogra, Naogaon, Pabna, Serajganj districts (Rajshahi province), Sylhet, Dhaka provinces",2004,6.0,20.0,2004,8.0,3.0,730.0,,730.0,,36000000.0,,36000000.0
+67,Flood,Riverine flood,Bangladesh,"Debidwar, Burichang, Cahndina, Chauddagram, Muradnagar areas (Comilla district, Chittagong province)",2004,9.0,11.0,2004,9.0,18.0,20.0,,20.0,,600000.0,,600000.0
+68,Flood,Flash flood,Bangladesh,"Dhaka, Faridpur, Gopalganj districts (Dhaka province), Lakshmipur district (Chittagong province), Bogra, Rajshahi, Naogaon, Joypurhat, Sirajganj districts (Rajshahi province), Gaibandha, Kurigram districts (Rangpur province)",2004,10.0,7.0,2004,10.0,18.0,11.0,,11.0,200.0,271500.0,,271700.0
+69,Flood,Flash flood,Bangladesh,"Maulvibazar, Habiganj districts (Sylhet province)",2005,5.0,25.0,2005,5.0,28.0,13.0,,13.0,,50000.0,,50000.0
+70,Flood,Flash flood,Bangladesh,"Naogaon, Joypurhat district (Rajshahi province), Gaibandha, Rangpur, Nilphamari, Dinajpur districts (Rangpur province)",2005,10.0,3.0,2005,10.0,20.0,19.0,,19.0,,100000.0,,100000.0
+71,Flood,Riverine flood,Bangladesh,"Kurigram, Gaibandha, Lalmonirhat, Rangpur, Nilphamari districts (Rangpur province), Sherpur, Jamalpur, Dhaka, Narayanganj, Munshiganj, Madaripur, districts (Dhaka province), Sirajganj, Bogra districts (Rajshahi province)",2005,7.0,7.0,2005,7.0,27.0,23.0,,23.0,,1000000.0,,1000000.0
+72,Flood,Riverine flood,Bangladesh,"Khagrachhari district (Chittagong province), Sylhet province",2006,5.0,31.0,2006,7.0,24.0,,,,,76000.0,,76000.0
+73,Flood,Riverine flood,Bangladesh,"Jessore, Khulna, Satkhira districts (Khulna province)",2006,8.0,24.0,2006,9.0,20.0,,,,,135775.0,,135775.0
+74,Flood,Riverine flood,Bangladesh,Chittagong district (Chittagong province),2007,6.0,11.0,2007,6.0,12.0,120.0,,120.0,60.0,80000.0,,80060.0
+75,Flood,Riverine flood,Bangladesh,"Goalanda village (Goalandaghat area, Rajbari district, Dhaka province), Aricha port (Shibalaya area, Manikganj district, Dhaka province), Bhagyakul village (Sreenagar area, Munshiganj district, Dhaka province), Bandarban, Feni, Comilla districts (Chittagong province), Sirajganj district (Rajshahi province), Rangpur province",2007,7.0,21.0,2007,8.0,3.0,1110.0,,1110.0,,13771380.0,,13771380.0
+76,Flood,Riverine flood,Bangladesh,"Cox's Bazar, Chittagong districts (Chittagong province)",2008,6.0,26.0,2008,7.0,13.0,16.0,,16.0,2.0,,20000.0,20002.0
+77,Flood,Riverine flood,Bangladesh,"Bogra, Sirajganj districts (Rajshahi province)",2008,8.0,30.0,2008,9.0,8.0,12.0,,12.0,,600000.0,15638.0,615638.0
+78,Flood,Riverine flood,Bangladesh,Habiganj district (Sylhet province),2009,7.0,3.0,2009,7.0,6.0,6.0,,6.0,,500000.0,,500000.0
+79,Flood,Riverine flood,Bangladesh,"Comilla, Chittagong districts (Chittagong province), Dhaka, Rajshahi, Barisal, Khulna, Sylhet provinces",2009,7.0,29.0,2009,7.0,29.0,10.0,,10.0,,,,
+80,Flood,Flash flood,Bangladesh,"Netrakona district (Dhaka province), Kurigram, Gaibandha, Lalmonirhat districts (Rangpur province), Sylhet province",2010,6.0,24.0,2010,6.0,24.0,,,,,75000.0,,75000.0
+81,Flood,Riverine flood,Bangladesh,"Chittagong, Cox's Bazar, Feni, Lakshmipur, Noakhali districts (Chittagong province), Bagerhat, Khulna, Satkhira districts (Khulna province), Barisal province",2010,10.0,1.0,2010,10.0,12.0,15.0,,15.0,,500000.0,,500000.0
+82,Flood,Flash flood,Bangladesh,"Cox's Bazar, Chittagong, Bandarban districts (Chittagong province), Satkhira, Jessore, Narail, Bagerhat, Chuadanga, Kushtia districts (Khulna province), Bogra, Sirajganj, Pabna, Naogaon districts (Rajshahi province), Lalmonirhat, Thakurgaon, Kurigram, Gaibandha districts (Rangpur province), Sherpur, Netrakona, Rajbari, Manikganj districts (Dhaka province)",2011,7.0,21.0,2011,7.0,29.0,10.0,,10.0,,1570559.0,,1570559.0
+83,Flood,Riverine flood,Bangladesh,"Chittagong, Bandarban, Cox's Bazar districts (Chittagong province), Sylhet district (Sylhet province)",2012,6.0,24.0,2012,7.0,2.0,139.0,,139.0,,5148475.0,,5148475.0
+84,Flood,Riverine flood,Bangladesh,"Barisal, Bhola, Patuakhali districts (Barisal province), Dhaka, Faridpur, Jamalpur, Madaripur, Manikganj, Rajbari, Shariatpur, Tangail districts (Dhaka province), Bogra, Pabna, Sirajganj districts (Rajshahi province), Gaibandha, Kurigram districts (Rangpur province)",2012,9.0,21.0,2012,9.0,28.0,,,,,250000.0,,250000.0
+85,Flood,Riverine flood,Bangladesh,"Lalmonirhat, Kurigram, Nilphamari, Rangpur, Gaibandha districts (Rangpur province), Bogra, Sirajganj districts (Rajshahi province), Sunamganj, Sylhet districts (Sylhet province), Sherpur, Netrakona, Munshiganj, Jamalpur, Tangail, Faridpur, Manikganj, Rajbari districts (Dhaka province), Bhola, Patuakhali, Barguna districts (Barisal province), Feni, Chittagong districts (Chittagong province)",2014,8.0,11.0,2014,9.0,10.0,59.0,,59.0,447.0,2800000.0,,2800447.0
+86,Flood,,Bangladesh,"Bogra, Naogaon districts (Rajshahi province), Jamalpur, Mymensing, Netrokona districts (Dhaka province), Kurigram Lalmonirhat, Gaibandha districts (Rangpur province), Brahmanbaria district (Chittagong province)",2014,9.0,,2014,9.0,,,,,,400000.0,,400000.0
+87,Flood,Riverine flood,Bangladesh,"Bandarban, Chittagong, Cox's Bazar districts (Chittagong province)",2015,6.0,23.0,2015,6.0,30.0,20.0,,20.0,20651.0,1381250.0,,1401901.0
+88,Flood,Riverine flood,Bangladesh,"Barisal district (Barisal province), Chittagong district (Chittagong province), Khulna district (Khulna province)",2015,7.0,25.0,2015,7.0,27.0,9.0,2.0,11.0,,10000.0,,10000.0
+89,Flood,Riverine flood,Bangladesh,"Kurigram, Bogra, Sirajganj, Gaibandha, Tangail, Jamalpur, Nilphamari, Lalmonirhat, Sunamganj, Faridpur, Kustia,Madaripur, Manikganj, Rajbari, Rangpur, Sariatpur districts",2016,7.0,19.0,2016,8.0,2.0,106.0,,106.0,,1900000.0,,1900000.0
+90,Flood,Riverine flood,Bangladesh,"Netrokona, Kishoreganj, Itna (Kishoreganj), Mithamoin (Kishoreganj), Austagram (Kishoreganj), Habiganj, Karimganj (Kishoreganj), Sunamganj, Moulvibazar, Sylhet",2017,3.0,28.0,2017,4.0,15.0,,,,,76725.0,9300.0,86025.0
+91,Flood,,Bangladesh,"Dinajpur, Kurigram, Lalmonirhat, Nilphamari, Chapainawabganj, Moulvibazar, Jessore, Sylhet, Gaibandha, Sunamganj, Mymensingh, Thakurgaon, Jamalpur, Joypurhat, Naogaon, Panchagarh, Bogra, Tangail, Rangamati, Comilla, Dhaka, Faridpur, Madaripur, Brahamanbaria, Munshiganj, Natore, Sirajganj, Rangpur, Sherpur, Netrakona, Chandpur, Rajshahi",2017,8.0,10.0,2017,8.0,31.0,144.0,,144.0,,8000000.0,,8000000.0
+92,Flood,,Bangladesh,"Cox’s Bazar,Rangamati",2018,6.0,5.0,2018,6.0,14.0,14.0,,14.0,,,,
+93,Flood,,Bangladesh,,2018,5.0,20.0,2018,5.0,22.0,21.0,,21.0,,14000.0,,14000.0
+94,Flood,,Bangladesh,"Kurigram, Gaibandha, Lalmonirhat, Chattogram, Bandarban, Rangamati, Sylhet, Sunamganj, Bogura, Nilphamari, Khagrachari, Cox’s Bazar, Feni, Netrokona, Sirajganj, Jamalpur, Tangail, Moulavibazar, Habiganj, Sherpur, Brahmanbaria, Chandpur, Faridpur, Madaripur, Manikganj, Munshiganj, Rajbari, Shariatpur districts",2019,7.0,7.0,2019,7.0,28.0,119.0,,119.0,,4000000.0,,4000000.0
